@@ -57,3 +57,4 @@ function zoomImage(url) {
 }
 
 renderProducts();
+
